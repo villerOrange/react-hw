@@ -1,0 +1,7 @@
+.taskCard {
+    margin-bottom: 8px;
+}
+
+.taskCard>.description {
+    font-style: italic;
+}

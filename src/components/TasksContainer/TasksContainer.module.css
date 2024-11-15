@@ -1,0 +1,9 @@
+.tasksContainer {
+    display: flex;
+    flex-direction: column;
+    background-color: #524C42;
+    width: 500px;
+    border-radius: 8px;
+    margin: 32px;
+    padding: 32px;
+}
